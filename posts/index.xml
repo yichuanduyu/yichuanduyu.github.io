@@ -13,23 +13,7 @@
       <pubDate>Fri, 07 May 2021 21:59:21 +0800</pubDate>
       
       <guid>https://yichuanduyu.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87/</guid>
-      <description>hugo new posts/ 初学基本操作：新建方法↑ 生成博客→添加内容→提交内容→推送博客 hugo 生成博客 cd “空格” p “Tab” “回车” git “空格” add “空格”.“回车” git commit -m&amp;#39;update（随便输英文）&amp;#39; git push blog main</description>
-    </item>
-    
-    <item>
-      <title>药师灌顶真言</title>
-      <link>https://yichuanduyu.github.io/posts/chinese-preview/</link>
-      <pubDate>Thu, 11 Apr 2019 14:26:00 +0800</pubDate>
-      
-      <guid>https://yichuanduyu.github.io/posts/chinese-preview/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;修学药师灌顶真言是药师法门的一部分，读诵修持有着极大的功德利益&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&#34;内容&#34;&gt;内容&lt;/h1&gt;
-&lt;p&gt;南无薄伽伐帝鞞杀社&lt;/p&gt;
-&lt;p&gt;窭噜薜琉璃&lt;/p&gt;
-&lt;p&gt;跋喇婆&lt;/p&gt;
-&lt;p&gt;喝啰阇也&lt;/p&gt;</description>
+      <description>hugo new posts/ 初学基本操作：新建方法↑ 生成博客→添加内容→提交内容→推送博客 hugo 生成博客 cd “空格”.. cd “空格” p “Tab” “回车” git “空格” add “空格”.“回车” git commit -m&amp;#39;update（随便输英文）&amp;#</description>
     </item>
     
   </channel>

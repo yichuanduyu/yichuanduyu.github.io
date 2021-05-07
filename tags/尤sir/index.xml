@@ -13,7 +13,7 @@
       <pubDate>Fri, 07 May 2021 21:59:21 +0800</pubDate>
       
       <guid>https://yichuanduyu.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87/</guid>
-      <description>hugo new posts/ 初学基本操作：新建方法↑ 生成博客→添加内容→提交内容→推送博客 hugo 生成博客 cd “空格” p “Tab” “回车” git “空格” add “空格”.“回车” git commit -m&amp;#39;update（随便输英文）&amp;#39; git push blog main</description>
+      <description>hugo new posts/ 初学基本操作：新建方法↑ 生成博客→添加内容→提交内容→推送博客 hugo 生成博客 cd “空格”.. cd “空格” p “Tab” “回车” git “空格” add “空格”.“回车” git commit -m&amp;#39;update（随便输英文）&amp;#</description>
     </item>
     
   </channel>
