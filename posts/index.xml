@@ -6,7 +6,16 @@
     <description>Recent content in Posts on 一川独屿的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Apr 2019 14:26:00 +0800</lastBuildDate><atom:link href="https://yichuanduyu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 May 2021 21:59:21 +0800</lastBuildDate><atom:link href="https://yichuanduyu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇</title>
+      <link>https://yichuanduyu.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87/</link>
+      <pubDate>Fri, 07 May 2021 21:59:21 +0800</pubDate>
+      
+      <guid>https://yichuanduyu.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87/</guid>
+      <description>hugo new posts/ 初学基本操作：新建方法↑ 生成博客→添加内容→提交内容→推送博客</description>
+    </item>
+    
     <item>
       <title>药师灌顶真言</title>
       <link>https://yichuanduyu.github.io/posts/chinese-preview/</link>
