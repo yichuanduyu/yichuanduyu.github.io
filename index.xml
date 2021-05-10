@@ -6,23 +6,14 @@
     <description>Recent content on 一川独屿的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 May 2021 19:43:26 +0800</lastBuildDate><atom:link href="https://yichuanduyu.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>临时测验</title>
-      <link>https://yichuanduyu.github.io/posts/%E4%B8%B4%E6%97%B6%E6%B5%8B%E9%AA%8C/</link>
-      <pubDate>Mon, 10 May 2021 19:43:26 +0800</pubDate>
-      
-      <guid>https://yichuanduyu.github.io/posts/%E4%B8%B4%E6%97%B6%E6%B5%8B%E9%AA%8C/</guid>
-      <description>临时 第二次修改</description>
-    </item>
-    
+    <lastBuildDate>Mon, 10 May 2021 12:52:39 +0800</lastBuildDate><atom:link href="https://yichuanduyu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>对成长的新看法</title>
       <link>https://yichuanduyu.github.io/posts/%E5%AF%B9%E6%88%90%E9%95%BF%E7%9A%84%E6%96%B0%E7%9C%8B%E6%B3%95/</link>
       <pubDate>Mon, 10 May 2021 12:52:39 +0800</pubDate>
       
       <guid>https://yichuanduyu.github.io/posts/%E5%AF%B9%E6%88%90%E9%95%BF%E7%9A%84%E6%96%B0%E7%9C%8B%E6%B3%95/</guid>
-      <description>成长速度是和“发现问题—解决问题”有关的。从真正主动思考什么是成长（不是被强制要求写些关于成长的作文的时候），到得出这样一个答案，大概经历了三年。我还有两个月就满二十岁了。得到这个答案的时间还不算太晚</description>
+      <description>​ 成长速度是和“发现问题—解决问题”有关的。从真正主动思考什么是成长（不是被强制要求写些关于成长的作文的时候），到得出这样一个答案，大概经历了三年。我还有两个月就满二十岁了。得到这个答案的时间还不算太</description>
     </item>
     
     <item>
@@ -35,12 +26,12 @@
     </item>
     
     <item>
-      <title>第一篇</title>
+      <title>改了许多遍的第一篇</title>
       <link>https://yichuanduyu.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87/</link>
       <pubDate>Fri, 07 May 2021 21:59:21 +0800</pubDate>
       
       <guid>https://yichuanduyu.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87/</guid>
-      <description>hugo new posts/“命名文档”.md 初学基本操作：新建方法↑ 生成博客→添加内容→提交内容→推送博客 hugo 生成博客 cd “空格”.. cd “空格” p “Tab” “回车” git “空格” add “空格”.“回车” git commit -m&amp;#39;u</description>
+      <description>新建文档 hugo new posts/“命名文档”.md 注：文档位于content目录之下的posts里（如图命令行），编辑的时候易错找进public目录下的posts里 还有编辑好的文档一定要ctrl+s保存！ clear 清</description>
     </item>
     
     <item>

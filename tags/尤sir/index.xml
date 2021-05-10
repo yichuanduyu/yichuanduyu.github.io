@@ -8,12 +8,12 @@
     <language>en</language>
     <lastBuildDate>Fri, 07 May 2021 21:59:21 +0800</lastBuildDate><atom:link href="https://yichuanduyu.github.io/tags/%E5%B0%A4sir/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>第一篇</title>
+      <title>改了许多遍的第一篇</title>
       <link>https://yichuanduyu.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87/</link>
       <pubDate>Fri, 07 May 2021 21:59:21 +0800</pubDate>
       
       <guid>https://yichuanduyu.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87/</guid>
-      <description>hugo new posts/“命名文档”.md 初学基本操作：新建方法↑ 生成博客→添加内容→提交内容→推送博客 hugo 生成博客 cd “空格”.. cd “空格” p “Tab” “回车” git “空格” add “空格”.“回车” git commit -m&amp;#39;u</description>
+      <description>新建文档 hugo new posts/“命名文档”.md 注：文档位于content目录之下的posts里（如图命令行），编辑的时候易错找进public目录下的posts里 还有编辑好的文档一定要ctrl+s保存！ clear 清</description>
     </item>
     
   </channel>
